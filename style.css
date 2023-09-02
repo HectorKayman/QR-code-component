@@ -39,6 +39,11 @@ body {
   border-radius: 0.5rem;
 }
 
+.heading {
+  text-align: center;
+  font-weight: 700;
+}
+
 /* Footer */
 .attribution {
   font-size: 11px;
